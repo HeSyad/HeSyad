@@ -1,4 +1,4 @@
-# Hi there, I'm Arsyad - aka Muhammad Arsyad[vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Arsyad - aka [Muhammad Arsyad](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working at [Digify.us](https://www.digify.us/)
 - 🌱 I’m currently learning Python and Javascript
