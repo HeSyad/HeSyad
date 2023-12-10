@@ -36,6 +36,9 @@
 [<img align="left" alt="Word" width="30px" src="https://cdn.worldvectorlogo.com/logos/word-1.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Powerpoint" width="30px" src="https://cdn.worldvectorlogo.com/logos/powerpoint-2.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="C" width="30px" src="https://cdn.worldvectorlogo.com/logos/c-1.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Html" width="30px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Php" width="30px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Canva" width="30px" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" style="padding-right:10px;" />][webdev]
 
 <br />
