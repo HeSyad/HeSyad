@@ -21,9 +21,10 @@
 
 ## Work Experience:
 #### 1. Digify.us | Internship Web Developer | Jakarta Selatan `Sep'2023 - Dec'2023`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Help create a website display based on needs and design
+   - Installing and configuring applications/plug-ins
+   - Assist in making documentation
+   - Assist in training on the use of the application
 #### 2. Lufoong Construction Sdn. Bhd | General Worker | Selangor `Nov'2022 - May'2023`
    - Help organize and supervise all warehousing administration activities
    - Assist in organizing and supervising all operational activities of explosives management
