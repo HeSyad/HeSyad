@@ -1,7 +1,7 @@
 # Hi there, I'm Arsyad - aka [Muhammad Arsyad](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working at [Digify.us](https://www.digify.us/)
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m proficient in Microsoft Office
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
@@ -20,7 +20,7 @@
    - Futsal extra curricular
 
 ## Work Experience:
-#### 1. Digify.us | Internship Web Developer | Jakarta Selatan `Sep'2023 - Dec'2023`
+#### 1. Digify.us | Web Developer Internship | Jakarta Selatan `Sep'2023 - Dec'2023`
    - Help create a website display based on needs and design
    - Installing and configuring applications/plug-ins
    - Assist in making documentation
