@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at [Digify.us](https://www.digify.us/)
 - 🌱 I’m proficient in Microsoft Office
 - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🤔 I’m looking for suggest for Project Ideas
 - 💬 Ask me about anything
 - 📫 How to reach me: arsyad079@gmail.com
 
