@@ -16,7 +16,6 @@
    - Create a smoke detector IOT project based on NodeMCU microcontroller
    - Creating a NodeMCU microcontroller-based automatic power outlet IOT project
  #### 2. [SMA N 8 Bogor](https://www.sman8kotabogor.sch.id/) | MIPA | Bogor `2013-2016`
-   - Member of Rohis
    - Futsal extra curricular
 
 ## Work Experience:
