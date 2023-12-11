@@ -10,11 +10,14 @@
 ## Education:
 
 #### 1. [Universitas Gunadarma](https://gunadarma.ac.id/) | Bachelor of Computer System | Depok `2016-2020`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - Member of student association
+   - Creating a prototype project of monitoring home electricity usage based on NodeMCU
+   - Creating a prototype project of an automatic door lock system using RFID and password based on Arduino uno microcontroller
+   - Create a smoke detector IOT project based on NodeMCU microcontroller
+   - Creating a NodeMCU microcontroller-based automatic power outlet IOT project
  #### 2. [SMA N 8 Bogor](https://www.sman8kotabogor.sch.id/) | MIPA | Bogor `2013-2016`
-   - Chief of Rohkris
+   - Member of Rohis
+   - Futsal extra curricular
 
 ## Work Experience:
 #### 1. Digify.us | Internship Web Developer | Jakarta Selatan `Sep'2023 - Dec'2023`
@@ -22,13 +25,17 @@
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
 #### 2. Lufoong Construction Sdn. Bhd | General Worker | Selangor `Nov'2022 - May'2023`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
+   - Help organize and supervise all warehousing administration activities
+   - Assist in organizing and supervising all operational activities of explosives management
+   - Perform administrative activities and make daily reports, blasting reports and weekly reports such as drill logs
+   - Organize employee operational schedules such as recording employee attendance, leave, sick leave
+   - Monitoring and evaluating the performance of employees
 #### 3. Ekstra Computer System | Computer Technician | Solok `Jan'2021 - Dec'2021`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Keep computer systems safe from viruses
+   - Assist in repairing computers and such as printers, scanners and other
+   - Assist in assembling and installing computers
+   - Counseling and educating how to use the correct way to use a computer
+   - Perform administrative activities such as recording stock and sales reports
 ---
 
 ### Languages and Tools:
